@@ -1,0 +1,4 @@
+big data needs distributed storage
+mapreduce processes big data in parallel
+hdfs stores large files across many machines
+the map step emits pairs and the reduce step aggregates them
